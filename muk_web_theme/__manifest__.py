@@ -9,7 +9,7 @@
     'category': 'Themes/Backend', 
     'license': 'LGPL-3', 
     'development_status': 'Production/Stable',
-    'author': 'MuK IT',
+    'author': 'MuK IT (OpenSPP fork)',
     'website': 'http://www.mukit.at',
     'live_test_url': 'https://mukit.at/demo',
     'contributors': [
