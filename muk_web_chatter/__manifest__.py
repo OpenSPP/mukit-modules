@@ -7,8 +7,9 @@
     ''',
     'version': '17.0.1.0.1', 
     'category': 'Tools/UI',
-    'license': 'LGPL-3', 
-    'author': 'MuK IT',
+    'license': 'LGPL-3',
+    'development_status': 'Production/Stable',
+    'author': 'MuK IT (OpenSPP fork)',
     'website': 'http://www.mukit.at',
     'live_test_url': 'https://mukit.at/demo',
     'contributors': [
