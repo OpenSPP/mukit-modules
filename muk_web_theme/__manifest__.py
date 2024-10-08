@@ -5,7 +5,7 @@
         This module offers a mobile compatible design for Odoo Community. 
         Furthermore it allows the user to define some design preferences.
     ''',
-    'version': '17.0.1.2.1 (OpenSPP fork)',
+    'version': '17.0.1.2.1',
     'category': 'Themes/Backend', 
     'license': 'LGPL-3', 
     'development_status': 'Production/Stable',
